@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/andr%C3%A9-mendon%C3%A7a-4bb409238/)
 
 ## Sobre
-Olá me chamo André Mendonça, tenho 18 anos e atualmente estou cursando *Análise e Desenvolvimento de Sistemas* na Fatec São Caetano. Sempre tive aptidão para computadores e muita curiosidade o que me levou a querer ser programador área que estou amando. 
+Olá me chamo André Mendonça, tenho 18 anos e atualmente estou cursando *Análise e Desenvolvimento de Sistemas* na Fatec São Caetano. Sempre tive aptidão para computadores e muita curiosidade o que me levou a querer ser programador, área que estou amando. 
 
 ## Habilidades
 Tenha paciência, ainda sou um programador em "construção" 😅😁🚧
