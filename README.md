@@ -5,7 +5,7 @@
 Olá me chamo André Mendonça, tenho 18 anos e atualmente estou cursando *Análise e Desenvolvimento de Sistemas* na Fatec São Caetano. Sempre tive aptidão para computadores e muita curiosidade o que me levou a querer ser programador, área que estou amando. 
 
 ## Habilidades
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![VB](https://raw.githubusercontent.com/vscode-icons/vscode-icons/d8261c1374c68fd3cd4d418168db4004a508545d/icons/file_type_vb.svg)
 ## Aprendendo
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ## GitHub Stats
