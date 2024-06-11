@@ -2,7 +2,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/andr%C3%A9-mendon%C3%A7a-4bb409238/)
 
 ## Sobre
-Olá me chamo André Mendonça, tenho 18 anos e atualmente estou cursando *Análise e Desenvolvimento de Sistemas* na Fatec São Caetano. Sempre tive aptidão para computadores e muita curiosidade o que me levou a querer ser programador, área que estou amando. 
+Sou estudante de Analise e Desenvolvimento de Sistemas na Fatec São Caetano do Sul. Estou em busca de uma oportunidade de estágio na área de desenvolvimento, onde posso aplicar e desenvolver meus 
+conhecimentos em linguagens como C# e frameworks como .NET e React.
+
+Atualmente trabalho como Jovem Aprendiz de TI, onde sou responsável por garantir o controle dos ativos de TI. Exercendo essa tarefa desenvolvi habilidades como organização, gestão de tempo e trabalho em equipe, e também no uso de ferramentas como pacote office e Excel avançado.
+
+Tenho conhecimentos em C#, .NET Framework, C++, PowerBI, Pacote Office, Excel Avançado, VBA, Microsoft Access, Arquitetura e Organização de Computadores, Banco de Dados, SqlServer.
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
