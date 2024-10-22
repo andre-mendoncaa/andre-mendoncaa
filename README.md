@@ -12,7 +12,7 @@ Tenho conhecimentos em C#, .NET Framework, C++, PowerBI, Pacote Office, Excel Av
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ## Aprendendo
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,py,react,dotnet)](https://skillicons.dev)
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andre-mendoncaa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ## Aqui virão meus Projetos 😁
